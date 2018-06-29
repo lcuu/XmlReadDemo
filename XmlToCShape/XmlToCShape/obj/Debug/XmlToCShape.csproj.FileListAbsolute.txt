@@ -1,0 +1,6 @@
+c:\users\administrator\source\repos\XmlToCShape\XmlToCShape\bin\Debug\XmlToCShape.exe.config
+c:\users\administrator\source\repos\XmlToCShape\XmlToCShape\bin\Debug\XmlToCShape.exe
+c:\users\administrator\source\repos\XmlToCShape\XmlToCShape\bin\Debug\XmlToCShape.pdb
+c:\users\administrator\source\repos\XmlToCShape\XmlToCShape\obj\Debug\XmlToCShape.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\XmlToCShape\XmlToCShape\obj\Debug\XmlToCShape.exe
+c:\users\administrator\source\repos\XmlToCShape\XmlToCShape\obj\Debug\XmlToCShape.pdb
